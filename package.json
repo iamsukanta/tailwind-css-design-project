@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "Tailwind CSS raw design project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsukanta/tailwind-css-design-project.git"
+  },
+  "keywords": [
+    "tailwind-css",
+    "design"
+  ],
+  "author": "Sukanta Bala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamsukanta/tailwind-css-design-project/issues"
+  },
+  "homepage": "https://github.com/iamsukanta/tailwind-css-design-project#readme"
+}
